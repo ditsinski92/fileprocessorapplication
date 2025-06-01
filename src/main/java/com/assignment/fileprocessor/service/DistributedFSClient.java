@@ -11,6 +11,7 @@ public class DistributedFSClient implements DistributedFs {
     private final DistributedFs fs = DistributedFs.getInstance();
 
     public long getFileLength() {
+        assert fs != null;
         return fs.fileLength();
     }
 
@@ -20,6 +21,7 @@ public class DistributedFSClient implements DistributedFs {
     }
 
     public InputStream getData(long offset) {
+        assert fs != null;
         return fs.getData(offset);
     }
 }

@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\hemimont\fileprocessor\src\main\java\com\assignment\fileprocessor\api\DistributedFs.java
+C:\Users\user\Desktop\hemimont\fileprocessor\src\main\java\com\assignment\fileprocessor\config\BatchConfig.java
+C:\Users\user\Desktop\hemimont\fileprocessor\src\main\java\com\assignment\fileprocessor\controller\BatchController.java
+C:\Users\user\Desktop\hemimont\fileprocessor\src\main\java\com\assignment\fileprocessor\FileProcessorApplication.java
+C:\Users\user\Desktop\hemimont\fileprocessor\src\main\java\com\assignment\fileprocessor\service\ChunkProcessingTasklet.java
+C:\Users\user\Desktop\hemimont\fileprocessor\src\main\java\com\assignment\fileprocessor\service\DistributedFSClient.java
+C:\Users\user\Desktop\hemimont\fileprocessor\src\main\java\com\assignment\fileprocessor\service\RemoteExecutor.java
+C:\Users\user\Desktop\hemimont\fileprocessor\src\main\java\com\assignment\fileprocessor\service\RemoteLineProcessor.java

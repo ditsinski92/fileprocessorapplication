@@ -1,0 +1,8 @@
+com\assignment\fileprocessor\service\RemoteExecutor.class
+com\assignment\fileprocessor\api\DistributedFs.class
+com\assignment\fileprocessor\config\BatchConfig.class
+com\assignment\fileprocessor\FileProcessorApplication.class
+com\assignment\fileprocessor\controller\BatchController.class
+com\assignment\fileprocessor\service\DistributedFSClient.class
+com\assignment\fileprocessor\service\ChunkProcessingTasklet.class
+com\assignment\fileprocessor\service\RemoteLineProcessor.class
